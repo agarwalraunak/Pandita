@@ -1,6 +1,0 @@
-----------------------------------------------------------------
-2013-12-01 00:09:43.377 GMT:
- Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance a816c00e-0142-ab7d-4462-00000632eaa0
-on database directory /home/blackhat/Documents/workspace/Pandita/src/com/pandita/worker/hive/metastore_db  
-
-Database Class Loader started - derby.database.classpath=''
